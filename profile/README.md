@@ -21,3 +21,7 @@ declaration in about five minutes, on your own machine.
 
 Services and tools that implement the standard. Open a pull request on this
 repository to add yours.
+
+| Service | What it does |
+|---|---|
+| [Nymbrink](https://nymbrink.polsia.app) | Monitors AI agents against their declarations and issues signed attestations. From the team behind the protocol. |
