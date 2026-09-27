@@ -24,4 +24,4 @@ repository to add yours.
 
 | Service | What it does |
 |---|---|
-| [Nymbrink](https://nymbrink.polsia.app) | Monitors AI agents against their declarations and issues signed attestations. From the team behind the protocol. |
+| Nymbrink | Monitors AI agents against their declarations and issues signed attestations. From the team behind the protocol. Launching soon. |
