@@ -5,7 +5,7 @@ An open standard for AI agent identity. An agent publishes a signed
 answers for it. Anyone else can issue signed **attestations** about it. Both
 verify offline, with no account and no call to any service.
 
-MIT licensed. Free to implement in any language, for any purpose.
+Apache 2.0 licensed. Free to implement in any language, for any purpose.
 
 | Repository | What it is |
 |---|---|
